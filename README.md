@@ -1,6 +1,6 @@
 # SICP
 
-I read `Structure and Interpretation of Computer Programs`.
+I'm reading `Structure and Interpretation of Computer Programs 2nd ed.`.
 
 ## Installation
 ```
@@ -12,7 +12,7 @@ I'm using `Gauche` interpreter.
 
 To run a file,
 ```
-gosh src/filename.scm
+gosh filename.scm
 ```
 
 Or, to start the REPL,
