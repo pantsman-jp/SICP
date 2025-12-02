@@ -9,6 +9,6 @@
 (define (two-large-sum-square x y z)
   (max3 (sum-square x y) (sum-square y z) (sum-square z x)))
 
-(print (two-large-sum-square 1 2 3))
-(print (two-large-sum-square 2 3 1))
-(print (two-large-sum-square 3 1 2))
+; (print (two-large-sum-square 1 2 3))
+; (print (two-large-sum-square 2 3 1))
+; (print (two-large-sum-square 3 1 2))
