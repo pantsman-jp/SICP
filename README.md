@@ -8,9 +8,9 @@ git clone https://github.com/pantsman-jp/sicp
 ```
 
 ## Usage
-Require `Gauche` (or your preferred Scheme implementation).
+Require `Gauche`.
 
-For example, to run a file in `Gauche`:
+To run a file:
 ```
 gosh filename.scm
 ```
